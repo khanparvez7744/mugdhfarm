@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+html,body{
+    margin:0;
+    padding:0;
+    overflow-x: hidden;
+    background:url('../images/apisBg25.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+
+.page-link,.page-link:hover,.page-link:active,.page-link:focus {
+
+color: #9a2603;
+
+}
